@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/anasayfa" android:title="Anasayfa" android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:id="@+id/gruplar" android:title="Gruplar" android:icon="@drawable/ic_group_black_24dp"/>
+    <item android:id="@+id/mesajlar" android:title="Mesajlar" android:icon="@android:drawable/ic_dialog_email"/>
+    <item android:id="@+id/bildirimler" android:title="Bildirimler" android:icon="@drawable/bildirim_icon"/>
+    <item android:id="@+id/sifreDegistir" android:title="Şifre Değiştir" android:icon="@drawable/sifredegis"/>
+    <item android:id="@+id/cikis_yap" android:title="Çıkış Yap" android:icon="@drawable/cikis"/>
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#42566e</color>
+    <color name="colorPrimaryDark">#2d454d</color>
+    <color name="colorAccent">#7c5260</color>
+    <color name="arkaplan">#fcd7cb</color>
+    <color name="yazi">#000</color>
+    <color name="lblyazi">#000</color>
+    <color name="white">#ffffff</color>
+    <color name="darkgray">#6c6c6c</color>
+    <color name="mesaj">#9bd7cd</color>
+    <color name="alinan">#dadada</color>
+    <color name="gonderilen">#f2f4c2</color>
+    <color name="bildirim">#ef3131</color>
+</resources>
